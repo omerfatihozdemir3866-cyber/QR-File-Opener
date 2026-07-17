@@ -1,0 +1,2 @@
+rootProject.name = "GeziQRAcici"
+include ':app'
